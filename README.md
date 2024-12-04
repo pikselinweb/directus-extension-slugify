@@ -37,7 +37,7 @@ This is a custom extension for Directus that provides slugification functionalit
 
 ## Usage
 
-![Usage](./screenshoots/configration.png)
+![Config](./screenshoots/configration.png)
 
 This plugin is designed for string fields and has a simple usage. All you have to do is select the source and separator. Slug field will watch source field value.
 
@@ -72,4 +72,4 @@ docker compose down && docker compose up -d
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
